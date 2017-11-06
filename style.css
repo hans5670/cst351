@@ -112,7 +112,8 @@ input, select {
 }
 
 #hover-guitar-header{
-    
+    font-size: 3em;
+    font-family: Dosis;
 }
 
 svg{
