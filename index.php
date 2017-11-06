@@ -28,7 +28,7 @@
         ?>
             
         </section>
-        <p>&copy;Amanda K. Hansen 2017</p>
+        <p id="copyright">&copy;Amanda K. Hansen 2017</p>
         <script>
         var musicArray =
         {
