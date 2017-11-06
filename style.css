@@ -134,7 +134,9 @@ h1, h2, h3{
 }
 
 #copyright{
-    font-size: 0.3em;
+    font-size: 0.1em;
+    color: #ccc;
+    padding-top: 10em;
 }
 
 #bio p{
