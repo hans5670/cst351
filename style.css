@@ -115,6 +115,7 @@ input, select {
     font-size: 2.3em;
     font-family: Dosis;
     padding-top: 5em;
+    padding-left: 1em;
 }
 
 svg{
@@ -137,8 +138,8 @@ h1, h2, h3{
 #copyright{
     font-size: 0.2em;
     color: #ccc;
-    padding-top: 10em;
-    padding-left: 0.1em;
+    padding-top: 5em;
+    padding-left: 0.4em;
 }
 
 #bio p{
