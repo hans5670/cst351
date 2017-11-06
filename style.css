@@ -107,13 +107,14 @@ input, select {
 #guitar-main-container{
     width: 90%;
     margin: auto;
-    padding-top: 5em;
+    padding-top: 2em;
     display: flex;
 }
 
 #hover-guitar-header{
-    font-size: 2.5em;
+    font-size: 2.3em;
     font-family: Dosis;
+    padding-top: 5em;
 }
 
 svg{
@@ -134,9 +135,10 @@ h1, h2, h3{
 }
 
 #copyright{
-    font-size: 0.1em;
+    font-size: 0.2em;
     color: #ccc;
     padding-top: 10em;
+    padding-left: 0.1em;
 }
 
 #bio p{

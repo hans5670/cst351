@@ -28,7 +28,12 @@
         ?>
             
         </section>
-        <p id="copyright">&copy;Amanda K. Hansen 2017</p>
+        <p id="copyright">&copy;Amanda K. Hansen 2017
+        <br/>
+        California State University Monterey Bay
+        <br/>
+        CST-351 Fall 2017
+        </p>
         <script>
         var musicArray =
         {
