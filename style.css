@@ -123,6 +123,7 @@ svg{
     width: 5em;
     top: 0;
     transition: top ease 0.3s;
+    padding-right: -1em;
 }
 
 #guitar-main-container svg:hover{
