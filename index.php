@@ -8,7 +8,6 @@
     </head>
     <body>
         <header>
-            <h1>Choose your Guitar...</h1>
             <h2 id="hover-guitar-header">Hover a guitar to see what song will play!</h2>
         </header>
         <section id="guitar-main-container">
@@ -29,6 +28,7 @@
         ?>
             
         </section>
+        <p>&copy;Amanda K. Hansen 2017</p>
         <script>
         var musicArray =
         {
