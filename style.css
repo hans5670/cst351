@@ -106,9 +106,10 @@ input, select {
 /*MAIN PAGE LAYOUT*/
 #guitar-main-container{
     width: 90%;
-    margin: auto;
-    padding-top: 2em;
+    margin: 0 auto;
     display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 
 #hover-guitar-header{
@@ -120,7 +121,7 @@ input, select {
 
 svg{
     display: flex;
-    width: 15em;
+    height: 300px;
     top: 0;
     transition: top ease 0.3s;
 }
