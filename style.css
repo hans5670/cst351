@@ -110,7 +110,6 @@ input, select {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    transform: rotate(90deg) translateX(-100px);
 }
 
 #hover-guitar-header{
@@ -465,6 +464,6 @@ nav a:hover{
 
 @media screen (min-with: 500px){
     #guitar-main-container{
-        transform: none;
+
     }
 }
